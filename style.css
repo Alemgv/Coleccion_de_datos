@@ -1,0 +1,51 @@
+body
+{
+    margin-left: 80px;
+    background-image: linear-gradient(to right, #d9a5bb, #68539e);
+}
+
+article
+{
+  width: 20%;
+  -moz-border-radius:20px; 
+  -webkit-border-radius: 20px;
+  margin: 50px 15px;
+  background-color: rgba(207, 196, 213, 60%);
+  /*text-align: center;*/
+  float: left;
+}
+
+
+h1, time
+{
+    margin-left: 10%;
+    font-family: Segoe UI;
+}
+
+.corta
+{
+  width: 86%;
+  height: 150px;
+  margin-left: 7%;
+  margin-bottom: 7%;
+}
+.largo
+{
+  width: 86%;
+  height: 325px;
+  margin-left: 7%;
+  margin-bottom: 7%;
+}
+
+time
+{
+  color: rgba(88, 92, 105, 50%);
+  font-style: italic;
+  font-size:1.1em;
+}
+
+h1
+{
+  font-weight: 100;
+  font-size:250%;
+}
